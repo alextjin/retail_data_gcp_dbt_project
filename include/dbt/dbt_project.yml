@@ -1,0 +1,11 @@
+name: 'retail'
+
+profile: 'retail'
+
+version: '1.0.0'
+
+config-version: 2
+
+models:
+  retail:
+    materialized: table
